@@ -1,6 +1,6 @@
 # Senior-Seminar-Project
 <b> Readme WIP </b><br>
-<u>Overview:<br></u>
+<ul>Overview:<br></ul>
 Capstone project from Governors State University utilizing Java, SQL and Intellij IDEA IDE.
 Top down shooter coded using the language JAVA.<br>
 SQL database used in program DBMain. <br>
